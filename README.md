@@ -2,7 +2,7 @@
 
 Este módulo contiene la lógica del servidor y la conexión a la base de datos para el proyecto.
 
-## 🚀 Guía de Inicio Rápido
+## 🚀 Guía de Inicio
 
 Sigue estos pasos para configurar tu entorno local y ejecutar el servidor de desarrollo.
 
@@ -17,7 +17,4 @@ cd back-end
 python3 -m venv venv
 
 # Activar el entorno virtual
-# En macOS/Linux:
-source venv/bin/activate
-# En Windows:
 # venv\Scripts\activate
