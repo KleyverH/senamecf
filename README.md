@@ -17,4 +17,4 @@ cd back-end
 python3 -m venv venv
 
 # Activar el entorno virtual
-# venv\Scripts\activate
+# venv\bin\activate
