@@ -10,9 +10,6 @@ Sigue estos pasos para configurar tu entorno local y ejecutar el servidor de des
 Primero, accede al directorio del backend y crea un entorno virtual para aislar las dependencias.
 
 ```bash
-# Entrar al directorio
-cd back-end
-
 # Crear el entorno virtual
 python3 -m venv venv
 
