@@ -17,10 +17,10 @@ cd senamecf
 python -m venv venv
 
 # Activar el entorno virtual
-# .\venv\Scripts\Activate.ps1
+.\venv\Scripts\Activate.ps1
 
 # Ejecutar el entorno de desarrollo
 # Ya desde aqui pueden empezar con el desarrollo de la app
-# python app.py
+python app.py
 
 # En caso de error de paquetes instalarlo manualmente con el gestor de paquetes "pip" y repetir los procesos para levantar el servidor local
